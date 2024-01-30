@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "Jan 18,2024 11:20:36 AM",
+      "body": "1st - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut abore"
+    },
+    {
+      "id": "3",
+      "title": "My Third Post",
+      "datetime": "Jan 18,2024 11:25 :36 AM",
+      "body": "3rd - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
+    },
+    {
+      "id": "4",
+      "title": "My Fourth Post",
+      "datetime": "January 23, 2024 4:41:15 PM",
+      "body": "My sample fourth Post"
+    },
+    {
+      "id": "5",
+      "title": "My Fifth Post",
+      "datetime": "January 23, 2024 4:42:24 PM",
+      "body": "My sample Fifth post"
+    },
+    {
+      "id": "6",
+      "title": "My Sixth Post",
+      "datetime": "January 23, 2024 4:45:56 PM",
+      "body": "My sample Sixth Post"
+    },
+    {
+      "id": "7",
+      "title": "jai",
+      "datetime": "Jan 29, 2024 2:14:42 PM",
+      "body": "jaik\n\n"
+    }
+  ]
+}
